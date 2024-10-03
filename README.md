@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to use various tools like React and Node.js 
 - 💞️ I’m looking to collaborate on projects to improve my skills coding
 - 📩 How to reach me? Im always here or at Discord
-- 😄 Pronouns: Pauleña
 - ⚡ Fun fact I´m a security guard 
 
 <!---
