@@ -1,6 +1,6 @@
 ## Hi, I’m @Paul3nha 🙋🏽‍♀️
 # 🌟 About Me:
-I´m a security guard with criminology and terrorism degree, currently learning how to use<br>various tools like React and Node.js thanks to the Full Stack Web Development Bootcamp<br>I've just completed on Hack a Boss<br><br>Looking for my place at this industry<br><br>
+I´m a security guard with criminology and terrorism degree, currently learning how to use<br>various tools like React and Node.js thanks to the Full Stack Web Development Bootcamp<br>I've just completed on Hack a Boss<br><br>Looking for my place at this industry🤞🏽<br><br>
 
 
 ## 📩 Socials:
